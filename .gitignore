@@ -1,0 +1,4 @@
+fedora.properties
+.idea
+*.iml
+target/
