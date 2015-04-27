@@ -2,7 +2,7 @@
 
 Note: this project is for version 3.x of the Fedora Commons repository. For the current version 4.x see
 
-[spring-data-fcrepo4](https://github.com/gushakov/spring-data-fedora)
+[spring-data-fcrepo4](https://github.com/gushakov/spring-data-fcrepo4)
 
 The purpose of this project is to extend Spring Data API for persisting and querying data from
 [Fedora Commons Repository](https://wiki.duraspace.org/display/FEDORA37/Fedora+3.7+Documentation).
